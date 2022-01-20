@@ -85,8 +85,8 @@
 84,E29,F,87,NEG,1.74,1.65,15,SIM,2,0,2,48,SIM,NÃO,não se aplica,negativo,não se aplica,não se aplica,negativo,não se aplica,T3N1M0,G2,pos,pos,1+,0.5,LUMINAL B,0.503319757,0.992975534,positivo,56
 85,E36,F,69,NEG,79.04,1.71,16,SIM,3,0,3,41,SIM,NÃO,não se aplica,positivo,27 anos,1 maço,positivo,32 anos,T3N1M0,G2,pos,pos,1+,0.7,LUMINAL B,0.527142235,0.993741424,positivo,47
 86,JCGB1,F,39,PAR,60.3,1.36,9,NÃO,1,0,1,20,NÃO,NÃO,não se aplica,negativo,não se aplica,não se aplica,positivo,14 anos,T3N1M0,G2,pos,pos,1+,0.2,LUMINAL B,0.527094494,0.993664835,positivo,35
-87,NPF,F,50,BR,60.4,1.45,14,NÃO,2,2,0,22,SIM,NÃO,não se aplica,negativo,não se aplica,não se aplica,negativo,não se aplica,T3N1M0,G2,pos,pos,2+,0.3,LUMINAL B ,0.525638411,1.051566069,positivo,76
-88,HCL,F,36,BR,73.85,1.52,14,NÃO,2,1,1,22,SIM,SIM,IRMÃ 44,negativo,não se aplica,não se aplica,negativo,não se aplica,T3N1M0,G2,pos,pos,2+,0.3,LUMINAL B ,0.526020334,1.053480793,positivo,44
+87,NPF,F,50,BR,60.4,1.45,14,NÃO,2,2,0,22,SIM,NÃO,não se aplica,negativo,não se aplica,não se aplica,negativo,não se aplica,T3N1M0,G2,pos,pos,2+,0.3,LUMINAL B,0.525638411,1.051566069,positivo,76
+88,HCL,F,36,BR,73.85,1.52,14,NÃO,2,1,1,22,SIM,SIM,IRMÃ 44,negativo,não se aplica,não se aplica,negativo,não se aplica,T3N1M0,G2,pos,pos,2+,0.3,LUMINAL B,0.526020334,1.053480793,positivo,44
 89,MCDS,F,33,PAR,52.39,1.47,14,NÃO,1,1,0,18,SIM,NÃO,não se aplica,negativo,não se aplica,não se aplica,negativo,não se aplica,T3N1M0,G2,pos,pos,3+,0.6,LUMINAL B HIBRIDO HER2,0.625996464,1.05080018,positivo,59
 90,HSG,F,42,PAR,75.84,1.47,13,NÃO,2,2,0,23,SIM,NÃO,não se aplica,negativo,não se aplica,não se aplica,negativo,não se aplica,T3N1M0,G2,pos,pos,3+,0.1,LUMINAL B HIBRIDO HER2,0.682931274,0.957622082,positivo,24
 91,MLCS,F,36,BR,71.04,1.37,12,NÃO,3,2,1,16,SIM,NÃO,não se aplica,negativo,não se aplica,não se aplica,negativo,não se aplica,T4bN1M0,G2,pos,pos,3+,0.5,LUMINAL B HIBRIDO HER2,0.682801073,0.97961202,positivo,mais de 60
