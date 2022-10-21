@@ -1,0 +1,197 @@
+name;sex;age;skin_ton;weight;height;menarch;menopause;gestations;childbirths;abortions;first_birth_age;breastfeeding;history;smoking;smoking_time;n_cigarretes;alcoholism;alcoholism_time;tnm;degree;re;rp;her2;ki67;molecular_type;mir_331_txpm;mir_331_ppxpcn;survival_1_year(months);survival_ 5_years;survival_1 year(logical);survival_ 5_years(logical)
+RCS;F;47;pardo;65.3;1.47;13;True;2;2;0;23;True;True;True;36 anos;1 pack;False;0;T3N1M0;G2;False;False;3+;0.4;HER SUPER EXPRESSO;1.7;1.467;11;False;False;False
+HSFS;F;33;pardo;85.8;1.67;15;False;2;2;0;16;True;True;False;0;0;False;0;T3N1M0;G2;False;False;3+;0.5;HER SUPER EXPRESSO;1.252;1.139;True;mais de 60;True;True
+MIDM;F;47;white;80.83;1.61;15;True;2;2;0;22;True;True;False;0;0;False;0;T3N1M0;G2;False;False;3+;0.15;HER SUPER EXPRESSO;1.692;1.504;11;False;False;False
+KJFC;F;33;pardo;87.82;1.53;15;False;2;1;1;25;True;False;True;5 anos;2 packs;False;0;T3N1M0;G1;False;False;1+;0.6;HER SUPER EXPRESSO;1.805;1.379;True;mais de 60;True;True
+KLCG;F;49;white;57.88;1.47;12;False;2;1;1;24;True;False;False;0;0;False;0;T3N1M0;G2;False;False;1+;0.2;HER SUPER EXPRESSO;1.692;1.504;True;mais de 60;True;True
+AMFN;F;36;pardo;77.2;1.54;15;False;2;2;0;20;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;3+;0.5;HER SUPER EXPRESSO;2.234;2.033;True;mais de 60;True;True
+M4;F;60;pardo;65.38;1.6;14;True;3;3;0;22;True;False;False;0;0;False;0;T3N1M0;G2;False;False;3+;0.5;HER SUPER EXPRESSO;1.698;1.508;True;mais de 60;True;True
+M5;F;52;black;57.32;1.5;12;True;2;2;0;20;True;False;False;0;0;False;0;T3N1M0;G2;False;False;3+;0.15;HER SUPER EXPRESSO;1.84;1.398;True;mais de 60;True;True
+M30;F;36;pardo;71.04;1.45;15;False;2;1;1;25;False;True;False;0;0;False;0;T4bN1M0;G2;False;False;3+;0.6;HER SUPER EXPRESSO;2.352;2.14;True;mais de 60;True;True
+M39;F;52;pardo;94.43;1.76;16;True;2;0;2;18;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;3+;0.5;HER SUPER EXPRESSO;2.25;2.049;10;False;False;False
+A5;F;45;pardo;64.2;1.62;15;True;0;0;0;0;False;False;False;0;0;True;27 anos;T3N1M0;G2;False;False;3+;0.2;HER SUPER EXPRESSO;1.696;1.507;9;False;False;False
+A6;F;42;pardo;93.4;1.82;18;False;2;1;1;35;True;False;False;0;0;True;5 anos;T3N1M0;G2;False;False;3+;0.2;HER SUPER EXPRESSO;1.695;1.506;10;False;False;False
+A12;F;50;black;73.2;1.64;15;True;2;0;2;33;False;False;False;0;0;True;8 anos;T3N1M0;G2;False;False;3+;0.4;HER SUPER EXPRESSO;1.698;1.507;True;mais de 60;True;True
+A14;F;72;pardo;84.5;1.79;17;True;0;0;0;0;0;False;False;0;0;False;0;T4bN1M0;G2;False;False;3+;0.2;HER SUPER EXPRESSO;2.329;2.117;True;23;True;True
+A16;F;35;pardo;58.4;1.44;13;False;4;2;2;17;True;False;True;mais de 10 anos;2 packs;True;5 anos;T3N1M0;G2;False;False;3+;0.5;HER SUPER EXPRESSO;1.698;1.507;11;False;False;False
+A17;F;50;black;52;1.41;12;True;5;0;5;42;True;True;True;14 anos;2 packs;True;6 anos;T4bN1M0;G2;False;False;3+;0.2;HER SUPER EXPRESSO;2.319;2.108;True;22;True;True
+A20;F;40;pardo;65.03;1.41;11;False;2;0;2;28;True;True;True;mais de 10 anos;2 packs;True;7 anos;T4bN1M0;G2;False;False;3+;0.5;HER SUPER EXPRESSO;2.329;2.117;True;25;True;True
+A24;F;70;pardo;70.15;1.58;11;True;5;1;4;21;True;False;True;18 anos;3 packs;True;12 anos;T4bN1M0;G2;False;False;3+;0.6;HER SUPER EXPRESSO;2.33;2.117;10;False;False;False
+B22;F;59;white;63.7;1.51;14;True;2;0;2;33;True;False;False;0;0;False;0;T3N1M0;G2;False;False;3+;0.2;HER SUPER EXPRESSO;1.703;1.468;True;14;True;True
+B23;F;66;pardo;61;1.53;13;True;2;0;2;22;True;False;False;0;0;True;40 anos;T3N1M0;G2;False;False;3+;0.4;HER SUPER EXPRESSO;1.698;1.507;True;18;True;True
+B25;F;83;white;77.8;1.58;14;True;1;0;1;27;True;False;False;0;0;False;0;T3N1M0;G2;False;False;3+;0.5;HER SUPER EXPRESSO;1.691;1.494;True;mais de 60;True;True
+B27;F;72;white;87.64;1.75;17;True;2;0;2;45;True;False;False;0;0;False;0;T3N1M0;G2;False;False;3+;0.5;HER SUPER EXPRESSO;1.696;1.498;10;False;False;False
+B28;F;73;white;79.6;1.68;15;True;2;0;2;49;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;3+;0.5;HER SUPER EXPRESSO;2.386;2.145;True;mais de 60;True;True
+B30;F;61;pardo;78.95;1.47;15;True;3;0;3;23;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;3+;0.6;HER SUPER EXPRESSO;2.328;2.117;8;False;False;False
+C20;F;40;pardo;56.78;1.42;14;True;5;1;4;21;True;False;True;23 anos;1 pack;True;25 anos;T3N1M0;G2;False;False;3+;0.1;HER SUPER EXPRESSO;1.687;1.508;True;54;True;True
+F6;F;86;black;66.09;1.57;15;True;1;0;1;45;True;False;False;0;0;False;0;T3N1M0;G2;False;False;3+;0.2;HER SUPER EXPRESSO;1.687;1.508;11;False;False;False
+F12;F;81;pardo;72.35;1.54;14;True;2;0;2;47;True;False;False;0;0;False;0;T3N1M0;G2;False;False;3+;0.2;HER SUPER EXPRESSO;1.687;1.508;True;50;True;True
+F14;F;67;pardo;69;1.46;15;True;7;1;6;46;True;False;True;39 anos;1 pack;True;44 anos;T3N1M0;G2;False;False;3+;0.4;HER SUPER EXPRESSO;1.703;1.459;11;False;False;False
+F17;F;36;pardo;54.2;1.49;16;False;1;0;1;26;True;False;False;0;0;True;24 anos;T3N1M0;G2;False;False;3+;0.5;HER SUPER EXPRESSO;1.699;1.497;9;False;False;False
+G14;F;37;pardo;70.45;1.51;11;True;2;0;2;21;True;False;True;19 anos;1 pack;True;22 anos;T3N1M0;G2;False;False;3+;0.5;HER SUPER EXPRESSO;1.701;1.457;7;False;False;False
+I14;F;71;pardo;58.3;1.38;9;True;2;0;2;41;False;False;False;0;0;False;0;T4bN1M0;G2;False;False;3+;0.6;HER SUPER EXPRESSO;2.166;1.972;6;False;False;False
+MBP;F;36;black;56.8;1.47;14;False;3;2;1;18;True;False;True;6 anos;2 packs;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.687;1.508;11;False;False;False
+MDF;F;50;pardo;64.37;1.42;11;True;2;1;1;26;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.27;1.147;5;False;False;False
+RFGA;F;38;pardo;56.38;1.42;11;False;0;0;0;0;0;True;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.324;1.205;11;False;False;False
+M9;F;78;white;46;1.54;13;True;3;3;0;16;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.324;1.205;11;False;False;False
+M10;F;42;black;63.5;1.48;16;False;2;2;0;21;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.324;1.205;True;51;True;True
+M12;F;51;black;78.99;1.64;16;True;2;2;0;30;True;False;True;20 anos;half pack;True;9 anos;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.339;1.216;True;47;True;True
+A30;F;52;black;75.06;1.65;13;True;2;1;1;29;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.277;1.153;True;mais de 60;True;True
+A32;F;66;white;69.32;1.61;11;True;3;1;2;16;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.365;1.243;True;44;True;True
+A33;F;50;white;66.98;1.63;12;True;4;0;4;22;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.387;1.234;9;False;False;False
+A35;F;50;black;76.36;1.64;10;True;2;0;2;16;True;False;False;0;0;True;8 anos;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.277;1.153;True;12;True;True
+A36;F;54;pardo;73.44;1.65;11;True;1;0;1;17;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.277;1.153;True;13;True;True
+B31;F;57;pardo;78.73;1.58;13;True;4;0;4;42;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.277;1.153;6;False;False;False
+C17;F;57;pardo;81.69;1.77;15;True;1;0;1;31;True;False;True;37 anos;1 pack;True;36 anos;T3N1M0;G2;True;True;0;0.1;LUMINAL A ;1.271;1.148;7;False;False;False
+D14;F;71;pardo;60.4;1.54;14;True;1;0;1;48;False;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.271;1.148;8;False;False;False
+D17;F;82;pardo;54.54;1.52;13;True;2;0;2;45;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.324;1.205;True;14;True;True
+D21;F;80;white;50.2;1.39;9;True;6;1;5;28;True;False;False;0;0;True;62 anos;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.268;1.152;True;37;True;True
+D40;F;88;white;59.44;1.4;12;True;5;0;5;46;True;False;True;10 anos;1 pack;False;0;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.278;1.153;11;False;False;False
+J14;F;67;pardo;65.4;1.4;8;True;1;0;1;47;False;False;True;38 anos;1 pack;True;41 anos;T3N1M0;G2;True;True;1+;0.1;LUMINAL A ;1.278;1.153;True;mais de 60;True;True
+KRSGF;F;39;black;57.88;1.52;11;False;1;1;0;27;True;True;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.4;LUMINAL B;1.275;1.151;8;False;False;False
+AVS;F;55;pardo;49.9;1.34;13;True;2;2;0;19;True;True;True;mais de 10 anos;1 pack;False;0;T3N1M0;G2;True;True;1+;0.7;LUMINAL B;0.848;0.498;True;mais de 60;True;True
+MLCS;F;44;pardo;73.92;1.46;13;False;5;3;2;18;True;False;False;0;0;False;0;T4bN1M0;G2;True;True;1+;0.3;LUMINAL B;2.307;2.099;5;False;False;False
+M6;F;48;black;76.37;1.57;14;True;3;2;1;18;True;False;False;0;0;False;0;T3N1M0;G2;True;True;2+;0.3;LUMINAL B;1.271;1.148;6;False;False;False
+M11;F;37;pardo;58.48;1.56;13;False;3;3;0;18;True;True;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.4;LUMINAL B;1.271;1.148;True;15;True;True
+M19;F;65;white;48.49;1.61;14;True;3;3;0;19;True;False;False;0;0;False;0;T4bN1M0;G2;True;True;1+;0.3;LUMINAL B;2.371;2.149;5;False;False;False
+M22;F;53;white;57.88;1.6;13;True;3;1;2;23;True;False;True;5 anos;1 pack;False;0;T3N1M0;G2;True;True;2+;0.3;LUMINAL B;1.324;1.205;True;13;True;True
+M24;F;53;white;53.29;1.5;11;True;0;0;0;21;0;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.5;LUMINAL B;1.271;1.148;True;12;True;True
+M26;F;50;pardo;75.84;1.56;13;True;3;1;2;30;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.15;LUMINAL B;1.271;1.148;8;False;False;False
+M32;F;44;pardo;83.2;1.55;13;False;1;1;0;24;False;True;False;0;0;False;0;T4bN1M0;G2;True;True;1+;0.5;LUMINAL B;2.367;2.154;True;14;True;True
+M35;F;46;pardo;69.56;1.56;11;False;0;0;0;0;0;False;False;0;0;False;0;T4bN1M0;G2;True;True;1+;0.3;LUMINAL B;2.371;2.149;11;False;False;False
+A26;F;47;black;82.55;1.67;16;True;3;0;3;20;True;False;True;13 anos;2 packs;True;20 anos;T3N1M0;G2;True;True;2+;0.3;LUMINAL B;1.447;1.316;True;mais de 60;True;True
+A27;F;26;pardo;83.47;1.63;14;False;3;0;3;15;True;True;True;8 anos;1 pack;True;15 anos;T3N1M0;G2;True;True;2+;0.3;LUMINAL B;1.453;1.322;5;False;False;False
+A29;F;34;black;67.34;1.58;11;False;5;2;3;18;True;True;False;0;0;False;0;T3N1M0;G2;True;True;2+;0.3;LUMINAL B;1.272;1.148;True;55;True;True
+A34;F;53;white;68.3;1.59;9;True;4;2;2;24;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.2;LUMINAL B;1.512;1.376;10;False;False;False
+A38;F;32;pardo;77.67;1.66;12;False;3;0;3;20;True;True;True;17 anos;2 packs;True;15 anos;T3N1M0;G2;True;True;1+;0.2;LUMINAL B;1.447;1.316;True;13;True;True
+A42;F;31;pardo;87.19;1.69;16;False;2;0;2;23;True;True;False;0;0;True;17 anos;T4bN1M0;G2;True;True;1+;0.3;LUMINAL B;2.383;2.141;4;False;False;False
+B1;F;53;pardo;80.48;1.71;18;True;1;0;1;22;True;False;True;15 anos;2 packs;True;32 anos;T4bN1M0;G2;True;True;1+;0.3;LUMINAL B;2.347;2.136;True;13;True;True
+B4;F;44;pardo;44.44;1.45;9;False;1;0;1;19;True;True;False;0;0;False;0;T4bN1M0;G2;True;True;1+;0.8;LUMINAL B;2.383;2.141;10;False;False;False
+B5;F;43;pardo;56.63;1.38;8;False;0;0;0;0;0;True;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.4;LUMINAL B;1.448;1.317;True;mais de 60;True;True
+B6;F;60;black;59.33;1.43;9;True;2;0;2;23;True;False;False;0;0;True;47 anos;T3N1M0;G2;True;True;1+;0.4;LUMINAL B;1.44;1.306;10;False;False;False
+B8;F;66;pardo;80.03;1.72;13;True;2;1;1;25;True;False;False;0;0;True;50 anos;T4bN1M0;G2;True;True;1+;0.5;LUMINAL B;2.377;2.154;True;mais de 60;True;True
+B11;F;49;white;57.35;1.46;12;True;3;1;2;32;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.7;LUMINAL B;1.457;1.325;6;False;False;False
+B17;F;37;pardo;69.43;1.4;8;False;1;0;1;21;True;True;False;0;0;False;0;T3N2M0;G2;True;False;0;0.8;LUMINAL B;2.192;1.949;True;mais de 60;True;True
+B40;F;41;pardo;76.3;1.44;13;True;0;0;0;0;0;False;False;0;0;False;0;T3N1M0;G1;True;True;1+;0.6;LUMINAL B;1.457;1.325;5;False;False;False
+C6;F;52;pardo;70.3;1.45;14;False;3;0;3;19;True;False;True;13 anos;1 pack;True;21 anos;T3N2M0;G2;True;True;1+;0.7;LUMINAL B;2.192;1.95;True;mais de 60;True;True
+C12;F;53;pardo;77.4;1.58;15;False;3;0;3;27;False;False;False;0;0;True;37 anos;T4bN1M0;G2;True;True;0;0.8;LUMINAL B;2.376;2.154;4;False;False;False
+C15;F;63;pardo;79.21;1.72;16;True;5;0;5;27;True;False;False;0;0;False;0;T3N2M0;G2;True;True;1+;0.8;LUMINAL B;2.173;1.969;True;mais de 60;True;True
+C21;F;49;white;64.2;1.48;13;True;4;0;4;31;True;False;True;21 anos;1 pack;True;35 anos;T3N1M0;G2;True;True;2+;0.2;LUMINAL B;1.794;1.497;True;mais de 60;True;True
+D5;F;49;pardo;73.92;1.4;9;True;3;2;1;26;True;False;True;25 anos;2 pack;True;22 anos;T3N1M0;G2;True;True;0;0.3;LUMINAL B;1.457;1.325;8;False;False;False
+D11;F;51;pardo;68.8;1.44;12;True;3;0;3;31;True;False;False;0;0;False;0;T3N1M0;G2;True;True;2+;0.3;LUMINAL B;1.457;1.325;8;False;False;False
+D12;F;79;white;66.4;1.64;15;True;2;0;2;30;True;False;False;0;0;False;0;T3N1M0;G2;True;True;2+;0.3;LUMINAL B;1.446;1.316;True;30;True;True
+E17;F;29;white;68.5;1.49;10;False;2;0;2;16;False;True;False;0;0;True;18 anos;T4bN1M0;G2;True;True;1+;0.3;LUMINAL B;2.192;1.95;6;False;False;False
+E21;F;56;white;69.49;1.64;14;True;1;1;0;37;False;False;True;16 anos;1 pack;True;13 anos;T3N1M0;G2;True;True;1+;0.4;LUMINAL B;1.871;1.421;11;False;False;False
+E29;F;87;black;74;1.65;15;True;2;0;2;48;True;False;False;0;0;False;0;T3N1M0;G2;True;True;1+;0.5;LUMINAL B;1.457;1.325;True;56;True;True
+E36;F;69;black;79.04;1.71;16;True;3;0;3;41;True;False;True;27 anos;1 pack;True;32 anos;T3N1M0;G2;True;True;1+;0.7;LUMINAL B;1.485;1.325;True;47;True;True
+JCGB1;F;39;pardo;60.3;1.36;9;False;1;0;1;20;False;False;False;0;0;True;14 anos;T3N1M0;G2;True;True;1+;0.2;LUMINAL B;1.448;1.317;True;35;True;True
+NPF;F;50;white;60.4;1.45;14;False;2;2;0;22;True;False;False;0;0;False;0;T3N1M0;G2;True;True;2+;0.3;LUMINAL B;1.356;1.234;True;76;True;True
+HCL;F;36;white;73.85;1.52;14;False;2;1;1;22;True;True;False;0;0;False;0;T3N1M0;G2;True;True;2+;0.3;LUMINAL B;1.356;1.234;True;44;True;True
+MCDS;F;33;pardo;52.39;1.47;14;False;1;1;0;18;True;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.6;LUMINAL B HIBRIDO HER2;1.268;1.178;True;59;True;True
+HSG;F;42;pardo;75.84;1.47;13;False;2;2;0;23;True;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.1;LUMINAL B HIBRIDO HER2;1.268;1.178;True;24;True;True
+MLCS;F;36;white;71.04;1.37;12;False;3;2;1;16;True;False;False;0;0;False;0;T4bN1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;2.282;2.095;True;mais de 60;True;True
+MGSP;F;47;pardo;72;1.45;12;False;3;3;0;18;True;True;False;0;0;False;0;T4cN2M0;G2;True;True;3+;0.2;LUMINAL B HIBRIDO HER2;3.065;2.851;menos de um mes;False;False;False
+M1;F;46;pardo;70.04;1.4;15;False;2;1;1;20;False;True;False;0;0;False;0;T4cN2M0;G2;True;True;3+;0.2;LUMINAL B HIBRIDO HER2;3.053;2.839;4;False;False;False
+M13;F;62;black;68.8;1.47;12;True;2;2;0;18;True;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.6;LUMINAL B HIBRIDO HER2;1.266;1.177;True;57;True;True
+M14;F;65;pardo;66.4;1.5;12;True;4;3;1;18;False;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.1;LUMINAL B HIBRIDO HER2;1.268;1.178;7;False;False;False
+M18;F;66;white;71.39;1.54;13;True;2;2;0;20;True;False;True;mais de 10 anos;2 packs;True;13 anos;T4bN1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;2.282;2.095;True;52;True;True
+M21;F;48;white;65.49;1.42;12;False;2;2;0;22;True;False;False;0;0;False;0;T4cN2M0;G2;True;True;3+;0.2;LUMINAL B HIBRIDO HER2;2.352;2.188;True;27;True;True
+M25;F;49;white;50.55;1.5;14;True;3;2;1;23;True;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.15;LUMINAL B HIBRIDO HER2;1.266;1.177;True;21;True;True
+M27;F;55;pardo;61.39;1.67;13;True;3;2;1;23;False;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.6;LUMINAL B HIBRIDO HER2;1.325;1.233;True;49;True;True
+M31;F;54;pardo;67.48;1.57;12;True;1;1;0;30;False;False;False;0;0;False;0;T4bN1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;2.314;2.153;menos de um mes;False;False;False
+M34;F;47;white;71.55;1.54;12;False;1;1;0;21;False;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.6;LUMINAL B HIBRIDO HER2;1.259;1.167;True;50;True;True
+M36;F;41;white;72.43;1.5;13;False;0;0;0;0;0;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.1;LUMINAL B HIBRIDO HER2;1.256;1.168;menos de um mes;False;False;False
+M40;F;48;white;75.83;1.56;12;True;2;0;2;19;True;False;True;9 anos;2 packs;True;11 anos;T4bN1M0;G2;True;True;3+;0.3;LUMINAL B HIBRIDO HER2;2.331;2.168;True;20;True;True
+A2;F;48;pardo;98.2;1.76;16;False;2;2;2;28;False;True;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.2;LUMINAL B HIBRIDO HER2;1.256;1.168;1;False;False;False
+A8;F;77;black;89.3;1.71;18;True;2;0;2;32;False;True;False;0;0;False;0;T4cN2M0;G2;True;True;3+;0.2;LUMINAL B HIBRIDO HER2;2.931;2.261;menos de um mes;False;False;False
+A10;F;64;white;82.2;1.64;15;True;3;0;3;31;True;False;True;20 anos;2 packs;True;13 anos;T4cN2M0;G2;True;True;3+;0.2;LUMINAL B HIBRIDO HER2;3.076;2.851;menos de um mes;False;False;False
+A11;F;40;black;68.2;1.61;15;False;1;0;1;22;True;True;True;8 anos;2 packs;True;28 anos;T4bN1M0;G2;True;True;3+;0.4;LUMINAL B HIBRIDO HER2;2.303;2.142;True;32;True;True
+A13;F;44;black;89.7;1.78;16;False;2;0;2;27;True;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;1.256;1.168;True;18;True;True
+A15;F;47;pardo;74.6;1.68;15;True;1;0;1;37;False;False;True;32 anos;1 pack;True;26 anos;T4bN1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;2.316;2.155;True;31;True;True
+A18;F;55;black;55.04;1.37;10;False;2;0;2;29;False;False;False;0;0;False;0;T4bN1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;2.353;2.189;True;58;True;True
+A19;F;43;pardo;54.07;1.39;9;False;4;0;4;21;True;False;False;0;0;False;0;T4bN1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;2.331;2.168;menos de um mes;False;False;False
+A21;F;59;pardo;58.23;1.42;11;True;3;0;3;34;True;True;True;14 anos;half pack;True;31 anos;T3N1M0;G2;True;True;3+;0.6;LUMINAL B HIBRIDO HER2;1.256;1.169;True;19;True;True
+A22;F;47;pardo;76.14;1.49;12;False;4;0;4;24;True;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.15;LUMINAL B HIBRIDO HER2;1.256;1.169;menos de um mes;False;False;False
+A23;F;77;pardo;62.33;1.52;13;True;3;0;3;19;True;False;True;mais de 10 anos;2 packs;True;42 anos;T3N1M0;G2;True;True;3+;0.6;LUMINAL B HIBRIDO HER2;1.363;1.268;True;51;True;True
+A25;F;34;black;77.86;1.61;13;False;0;0;0;0;0;True;True;13 anos;1 pack;False;0;T3N1M0;G2;True;True;3+;0.15;LUMINAL B HIBRIDO HER2;1.256;1.169;2;False;False;False
+B21;F;63;pardo;97.54;1.74;17;True;4;0;4;35;True;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.2;LUMINAL B HIBRIDO HER2;1.256;1.169;True;57;True;True
+B26;F;89;pardo;81.3;1.69;16;True;1;0;1;29;True;False;False;0;0;False;0;T4bN1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;2.339;2.172;True;20;True;True
+B29;F;42;white;82.8;1.69;16;False;1;0;1;21;False;False;False;0;0;False;0;T4bN1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;2.287;2.099;True;16;True;True
+C19;F;40;white;79.44;1.72;15;True;2;0;2;28;True;True;True;11 anos;1 pack;True;22 anos;T3N1M0;G2;True;True;3+;0.2;LUMINAL B HIBRIDO HER2;1.252;1.164;True;17;True;True
+C22;F;39;white;81.67;1.69;15;True;3;2;1;18;True;True;True;23 anos;1 pack;True;21 anos;T4cN2M0;G2;True;True;3+;0.15;LUMINAL B HIBRIDO HER2;2.928;2.257;1;False;False;False
+C23;F;49;pardo;68.92;1.5;12;True;3;1;2;38;True;False;False;0;0;False;0;T4cN2M0;G2;True;True;3+;0.2;LUMINAL B HIBRIDO HER2;3.049;2.833;True;52;True;True
+C24;F;48;white;89.82;1.67;15;True;3;0;3;28;True;False;True;mais de 10 anos;2 packs;True;25 anos;T4cN2M0;G2;True;True;3+;0.2;LUMINAL B HIBRIDO HER2;3.197;2.927;True;31;True;True
+C27;F;50;white;92.04;1.66;17;True;4;2;2;38;True;False;True;24 anos;1 pack;True;39 anos;T4bN1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;2.452;2.28;True;16;True;True
+C28;F;43;white;81.2;1.74;18;False;3;0;3;32;True;False;False;0;0;True;23 anos;T4bN1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;2.452;2.28;True;32;True;True
+C29;F;49;black;63.41;1.51;13;True;3;0;3;39;True;False;True;35 anos;1 pack;True;30 anos;T4bN1M0;G2;True;True;3+;0.3;LUMINAL B HIBRIDO HER2;2.452;2.28;True;18;True;True
+C33;F;66;pardo;64.37;1.37;9;True;6;1;5;40;True;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.6;LUMINAL B HIBRIDO HER2;1.252;1.164;True;54;True;True
+C34;F;41;pardo;57.88;1.34;8;False;1;0;1;30;True;True;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.6;LUMINAL B HIBRIDO HER2;1.252;1.164;menos de um mes;False;False;False
+C36;F;54;pardo;71.04;1.39;9;True;1;0;1;39;True;False;True;34 anos;2 pack;True;33 anos;T3N1M0;G2;False;False;3+;0.6;LUMINAL B HIBRIDO HER2;1.252;1.165;menos de um mes;False;False;False
+F34;F;29;black;55.89;1.48;12;False;2;0;2;17;True;True;False;0;0;True;14 anos;T4bN1M0;G2;True;True;3+;0.3;LUMINAL B HIBRIDO HER2;2.452;2.281;True;33;True;True
+G34;F;85;white;66.27;1.53;11;True;1;0;1;48;False;False;False;0;0;False;0;T4bN1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;2.452;2.281;True;40;True;True
+A3;F;59;pardo;78.87;1.67;16;True;2;1;1;31;False;False;False;0;0;False;0;T3N1M0;G2;True;True;3+;0.1;LUMINAL B HIBRIDO HER2;1.252;1.165;True;55;True;True
+A4;F;46;pardo;66.03;1.6;16;True;3;0;3;34;False;False;True;mais de 10 anos;1 pack;True;35 anos;T3N1M0;G2;True;True;3+;0.3;LUMINAL B HIBRIDO HER2;1.252;1.165;7;False;False;False
+A7;F;46;pardo;51.5;1.41;16;False;2;1;1;33;True;False;False;0;0;True;13 anos;T3N1M0;G2;True;True;3+;0.5;LUMINAL B HIBRIDO HER2;1.252;1.165;6;False;False;False
+MVSA;F;32;white;59.52;1.5;11;False;4;2;2;19;True;True;False;0;0;False;0;T3N2M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.199;1.996;11;False;False;False
+GMS;F;38;pardo;57.6;1.45;13;False;3;2;1;24;True;True;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.452;2.281;11;False;False;False
+MLBF;F;30;black;43.2;1.44;12;False;2;2;0;18;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.9;TRIPLO NEGATIVO;2.452;2.28;8;False;False;False
+M2;F;41;pardo;69.48;1.47;13;False;2;1;1;19;False;True;False;0;0;False;0;T3N2M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.385;2.191;10;False;False;False
+M3;F;61;pardo;52.45;1.63;14;True;4;2;2;14;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.452;2.281;5;False;False;False
+M7;F;53;black;60.44;1.51;12;True;5;3;2;22;True;False;False;0;0;False;0;T3N1M0;G1;False;False;1+;0.6;TRIPLO NEGATIVO;1.257;1.169;4;False;False;False
+M8;F;37;white;68.44;1.55;11;False;2;2;0;22;True;True;True;9 anos;half pack;False;0;T3N1M0;G2;False;False;1+;0.2;TRIPLO NEGATIVO;1.257;1.169;4;False;False;False
+M15;F;33;pardo;66.2;1.57;13;False;3;3;0;16;True;True;False;0;0;False;0;T3N2M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.165;2.014;3;False;False;False
+M16;F;77;pardo;92.48;1.77;10;True;2;2;0;17;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.543;2.365;6;False;False;False
+M17;F;62;pardo;67.5;1.55;17;True;3;2;1;15;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;3+;0.5;TRIPLO NEGATIVO;2.539;2.408;9;False;False;False
+M20;F;57;black;76.2;1.5;15;False;5;3;2;17;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.3;TRIPLO NEGATIVO;2.541;2.415;10;False;False;False
+M23;F;54;black;64.38;1.66;11;False;2;2;0;25;True;False;True;mais de 10 anos;2 packs;True;10 anos;T3N1M0;G2;False;False;1+;0.1;TRIPLO NEGATIVO;1.34;1.268;9;False;False;False
+M28;F;44;pardo;54.56;1.45;11;False;3;2;1;21;False;True;False;0;0;False;0;T3N1M0;G2;False;False;1+;0.3;TRIPLO NEGATIVO;1.335;1.269;2;False;False;False
+M29;F;47;pardo;88.46;1.67;13;False;0;0;0;0;0;True;False;0;0;False;0;T3N2M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.374;2.246;8;False;False;False
+M33;F;30;black;72.33;1.55;14;False;2;1;1;21;False;True;False;0;0;False;0;T3N1M0;G2;False;False;1+;0.1;TRIPLO NEGATIVO;1.332;1.266;3;False;False;False
+M37;F;61;pardo;84.48;1.66;16;True;3;1;2;19;True;False;False;0;0;False;0;T3N2M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.047;1.945;5;False;False;False
+M38;F;60;white;85.09;1.67;13;True;2;0;2;18;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.7;TRIPLO NEGATIVO;2.531;2.405;True;mais de 60;True;True
+A1;F;35;pardo;50.34;1.36;10;True;3;0;3;18;False;True;False;0;0;True;20 anos;T4bN1M0;G2;False;False;1+;0.1;TRIPLO NEGATIVO;2.529;2.4;True;14;True;True
+A9;F;59;white;83.5;1.61;15;True;1;0;1;36;False;False;True;mais de 10 anos;3 packs;True;40 anos;T4cN2M0;G2;False;False;3+;0.2;TRIPLO NEGATIVO;3.294;3.082;True;mais de 60;True;True
+A28;F;76;pardo;76.47;1.6;12;True;2;0;2;17;True;False;False;0;0;False;0;T3N1M0;G2;False;False;2+;0.4;TRIPLO NEGATIVO;1.329;1.258;True;mais de 60;True;True
+A31;F;66;pardo;77.84;1.62;12;True;3;0;3;18;True;False;False;0;0;False;0;T3N1M0;G2;False;False;1+;0.1;TRIPLO NEGATIVO;1.332;1.265;True;13;True;True
+A37;F;27;black;69.65;1.62;12;False;1;0;1;18;True;True;False;0;0;True;4 anos;T3N1M0;G2;False;False;1+;0.1;TRIPLO NEGATIVO;1.33;1.264;True;mais de 60;True;True
+A39;F;50;black;72.13;1.59;13;True;3;0;3;21;True;False;False;0;0;True;16 anos;T3N1M0;G2;False;False;1+;0.2;TRIPLO NEGATIVO;1.33;1.258;2;False;False;False
+A41;F;51;pardo;84.42;1.68;14;True;0;0;0;0;0;False;False;0;0;True;34 anos;T3N1M0;G2;False;False;0;0.2;TRIPLO NEGATIVO;1.331;1.265;True;16;True;True
+B2;F;39;pardo;79.47;1.59;10;False;1;0;1;18;True;True;False;0;0;True;24 anos;T4bN1M0;G2;False;False;1+;0.3;TRIPLO NEGATIVO;2.543;2.416;True;31;True;True
+B3;F;37;pardo;70.36;1.55;10;False;1;0;1;18;True;True;True;7 anos;1 pack;True;21 anos;T3N1M0;G2;False;False;1+;0.3;TRIPLO NEGATIVO;1.329;1.258;True;33;True;True
+B7;F;68;pardo;88.04;1.7;15;True;3;1;2;34;True;False;False;0;0;True;48 anos;T3N1M0;G2;False;False;0;0.5;TRIPLO NEGATIVO;1.333;1.267;True;17;True;True
+B9;F;70;pardo;55.99;1.39;8;True;1;0;1;24;True;False;True;33 anos;2 packs;True;52 anos;T3N1M0;G1;False;False;1+;0.6;TRIPLO NEGATIVO;1.262;1.199;6;False;False;False
+B10;F;75;white;95.84;1.73;14;True;2;0;2;44;True;False;False;0;0;False;0;T3N1M0;G1;False;False;1+;0.6;TRIPLO NEGATIVO;1.263;1.2;6;False;False;False
+B12;F;45;pardo;82.33;1.43;12;True;1;0;1;17;True;True;True;12 anos;1 pack;True;11 anos;T4bN1M0;G2;True;False;1+;0.7;TRIPLO NEGATIVO;2.462;2.339;True;mais de 60;True;True
+B13;F;68;pardo;91.33;1.7;17;True;1;0;1;19;True;False;False;0;0;False;0;T3N2M0;G2;False;False;0;0.7;TRIPLO NEGATIVO;2.164;2.078;True;mais de 60;True;True
+B14;F;45;pardo;81.22;1.34;8;True;1;0;1;23;True;True;True;mais de 10 anos;2 packs;True;24 anos;T4bN1M0;G2;False;False;1+;0.7;TRIPLO NEGATIVO;2.463;2.365;True;mais de 60;True;True
+B15;F;73;black;52.34;1.35;7;True;1;0;1;44;True;False;False;0;0;False;0;T3N2M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.08;1.982;True;37;True;True
+B16;F;74;pardo;89.03;1.73;16;True;1;0;1;32;True;True;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.462;2.364;11;False;False;False
+B18;F;44;pardo;100.03;1.75;13;False;0;0;0;0;0;False;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.462;2.363;menos de um mes;False;False;False
+B19;F;50;white;60.14;1.48;16;True;1;0;1;24;False;False;False;0;0;True;38 anos;T3N2M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.308;2.215;True;36;True;True
+B20;F;78;white;66.93;1.55;15;True;3;0;3;23;True;False;False;0;0;False;0;T3N2M0;G2;False;False;0;0.9;TRIPLO NEGATIVO;2.286;2.166;5;False;False;False
+B33;F;45;black;62.7;1.53;12;True;2;0;2;31;True;True;False;0;0;False;0;T3N1M0;G2;False;False;1+;0.2;TRIPLO NEGATIVO;1.264;1.213;True;16;True;True
+B34;F;48;black;76.3;1.59;13;True;2;0;2;30;True;False;False;0;0;True;19 anos;T3N1M0;G2;True;False;1+;0.2;TRIPLO NEGATIVO;1.262;1.212;True;17;True;True
+B36;F;35;pardo;79.66;1.69;16;False;1;0;1;23;True;True;False;0;0;False;0;T4bN1M0;G2;False;False;0;0.3;TRIPLO NEGATIVO;2.462;2.364;True;40;True;True
+B37;F;38;pardo;80.01;1.6;15;True;1;0;1;25;True;True;False;0;0;False;0;T3N1M0;G2;False;False;1+;0.3;TRIPLO NEGATIVO;1.262;1.212;True;39;True;True
+B39;F;63;pardo;62.33;1.49;14;True;2;0;2;23;True;False;False;0;0;False;0;T3N1M0;G1;False;False;1+;0.6;TRIPLO NEGATIVO;1.263;1.212;True;12;True;True
+C5;F;78;pardo;71.2;1.46;14;True;6;2;4;25;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.7;TRIPLO NEGATIVO;2.463;2.365;True;15;True;True
+C9;F;64;pardo;82.7;1.69;15;True;3;1;2;26;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.7;TRIPLO NEGATIVO;2.462;2.364;1;False;False;False
+C11;F;58;white;79.9;1.68;16;True;3;0;3;29;False;False;True;30 anos;1 pack;True;35 anos;T3N2M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.153;2.067;True;24;True;True
+C13;F;63;pardo;67.44;1.53;14;True;7;2;5;30;True;False;True;22 anos;1 pack;True;23 anos;T3N2M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.094;1.963;True;15;True;True
+C14;F;62;white;59.23;1.4;15;True;3;1;2;36;True;False;True;31 anos;1 pack;True;26 anos;T4bN1M0;G2;False;False;1+;0.8;TRIPLO NEGATIVO;2.462;2.364;True;34;True;True
+C16;F;79;white;66.02;1.39;10;True;4;2;2;30;True;False;False;0;0;False;0;T3N2M0;G2;False;False;1+;0.9;TRIPLO NEGATIVO;2.315;2.223;2;False;False;False
+C25;F;50;white;79.21;1.72;16;True;2;1;1;29;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;2+;0.4;TRIPLO NEGATIVO;2.462;2.364;True;14;True;True
+C31;F;57;pardo;80.83;1.36;10;True;0;0;0;0;0;False;True;35 anos;1 pack;True;37 anos;T3N1M0;G2;False;False;0;0.6;TRIPLO NEGATIVO;1.262;1.212;6;False;False;False
+D6;F;53;pardo;63.2;1.41;10;True;1;0;1;27;True;False;True;29 anos;1 pack;True;29 anos;T3N1M0;G2;False;False;2+;0.3;TRIPLO NEGATIVO;1.262;1.212;True;35;True;True
+D19;F;67;pardo;49.34;1.36;10;True;4;1;3;47;True;False;True;0;0;False;0;T3N1M0;G2;False;False;1+;0.1;TRIPLO NEGATIVO;1.282;1.202;3;False;False;False
+D34;F;27;pardo;53.4;1.38;9;False;1;0;1;19;False;True;False;0;0;True;12 anon;T3N1M0;G2;False;False;1+;0.2;TRIPLO NEGATIVO;1.282;1.202;11;False;False;False
+D36;F;56;pardo;48.9;1.37;8;True;2;0;2;41;True;False;True;26 anos;1 pack;True;33 anos;T3N1M0;G2;False;False;1+;0.1;TRIPLO NEGATIVO;1.279;1.214;True;36;True;True
+E6;F;28;white;61.22;1.44;11;False;1;0;1;17;False;True;False;0;0;False;0;T3N1M0;G2;False;False;1+;0.2;TRIPLO NEGATIVO;1.28;1.214;menos de um mes;False;False;False
+E12;F;69;white;67.89;1.46;10;True;1;0;1;43;False;False;False;0;0;True;44 anos;T4bN1M0;G2;False;False;1+;0.3;TRIPLO NEGATIVO;2.48;2.366;True;15;True;True
+E14;F;89;white;62.4;1.48;11;True;5;0;5;36;True;False;True;0;0;False;0;T4bN1M0;G2;False;False;2+;0.9;TRIPLO NEGATIVO;2.48;2.366;menos de um mes;False;False;False
+E19;F;79;white;68.8;1.51;12;True;6;2;4;43;True;False;False;0;0;False;0;T3N1M0;G2;False;False;1+;0.4;TRIPLO NEGATIVO;1.28;1.214;7;False;False;False
+E34;F;80;pardo;82.45;1.58;13;True;0;0;0;0;0;False;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.5;TRIPLO NEGATIVO;2.448;2.348;True;38;True;True
+H14;F;38;pardo;60.02;1.44;10;False;3;0;3;26;True;False;False;0;0;True;41 anos;T4bN1M0;G2;False;False;1+;0.5;TRIPLO NEGATIVO;2.463;2.365;menos de um mes;False;False;False
+K14;F;56;white;66.48;1.37;8;True;2;1;1;41;False;False;True;28 anos;1 pack;True;33 anos;T3N1M0;G2;False;False;1+;0.2;TRIPLO NEGATIVO;1.403;1.347;6;False;False;False
+JCBG2;F;84;white;79.55;1.7;14;True;2;0;2;46;True;False;False;0;0;False;0;T4bN1M0;G2;False;False;1+;0.3;TRIPLO NEGATIVO;2.461;2.363;True;mais de 60;True;True
+JCGB3;F;28;pardo;45.99;1.35;11;False;0;0;0;0;0;True;False;0;0;True;12 anos;T3N1M0;G2;False;False;1+;0.3;TRIPLO NEGATIVO;1.25;1.195;6;False;False;False
