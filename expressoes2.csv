@@ -1,0 +1,197 @@
+miR-145.Plasma,miR-145.Tumor,miR-195b.Plasma,miR-195.Tumor,Tipo.Molecular,Peso,Altura,IMC2,RE,RP,HER-2,KI67,COR,TNM,TABAGISMO,ALCOOLISMO
+0.809,0.668,1.459,1.249,HER2,65.3,1.47,30.22,neg,neg,3+,0,4,PAR,T3N1M0,positivo,negativo
+0.789,0.659,1.387,1.187,HER2,85.8,1.67,30.76,neg,neg,3+,0,5,PAR,T3N1M0,negativo,negativo
+0.779,0.659,2.044,1.576,HER2,80.83,1.61,31.18,neg,neg,3+,0,15,BRA,T3N1M0,negativo,negativo
+0.779,0.659,2.045,1.584,HER2,87.82,1.53,37.52,neg,neg,1+,0,6,PAR,T3N1M0,positivo,negativo
+0.777,0.666,1.607,1.576,HER2,57.88,1.47,26.79,neg,neg,1+,0,2,BRA,T3N1M0,negativo,negativo
+0.771,0.62,1.621,1.589,HER2,77.2,1.54,32.55,neg,neg,3+,0,5,PAR,T4bN1M0,negativo,negativo
+0.756,0.668,1.601,1.569,HER2,65.38,1.6,25.54,neg,neg,3+,0,5,PAR,T3N1M0,negativo,negativo
+0.774,0.693,1.652,1.619,HER2,57.32,1.5,25.48,neg,neg,3+,0,15,NEG,T3N1M0,negativo,negativo
+0.744,0.693,1.599,1.568,HER2,71.04,1.45,33.79,neg,neg,3+,0,6,PAR,T4bN1M0,negativo,negativo
+0.771,0.693,1.675,1.642,HER2,94.43,1.76,30.48,neg,neg,3+,0,5,PAR,T4bN1M0,negativo,negativo
+0.814,0.693,1.599,1.568,HER2,64.2,1.62,24.46,neg,neg,3+,0,2,PAR,T3N1M0,negativo,positivo
+0.814,0.757,1.171,1.21,HER2,93.4,1.82,28.2,neg,neg,3+,0,2,PAR,T3N1M0,negativo,positivo
+0.818,0.757,1.58,1.633,HER2,73.2,1.64,27.22,neg,neg,3+,0,4,NEG,T3N1M0,negativo,positivo
+0.877,0.757,1.561,1.614,HER2,84.5,1.79,26.37,neg,neg,3+,0,2,PAR,T4bN1M0,negativo,negativo
+0.856,0.757,1.58,1.633,HER2,58.4,1.44,28.16,neg,neg,3+,0,5,PAR,T3N1M0,positivo,positivo
+0.814,0.788,1.783,1.703,HER2,52,1.41,26.16,neg,neg,3+,0,2,NEG,T4bN1M0,positivo,positivo
+0.82,0.789,1.609,1.31,HER2,65.03,1.41,32.71,neg,neg,3+,0,5,PAR,T4bN1M0,positivo,positivo
+0.822,0.788,2.171,1.767,HER2,70.15,1.58,28.1,neg,neg,3+,0,6,PAR,T4bN1M0,positivo,positivo
+0.82,0.732,2.12,1.725,HER2,63.7,1.51,27.94,neg,neg,3+,0,2,BRA,T3N1M0,negativo,negativo
+0.778,0.732,2.171,1.767,HER2,61,1.53,26.06,neg,neg,3+,0,4,PAR,T3N1M0,negativo,positivo
+0.777,0.655,2.166,1.763,HER2,77.8,1.58,31.16,neg,neg,3+,0,5,BRA,T3N1M0,negativo,negativo
+0.774,0.655,2.231,1.816,HER2,87.64,1.75,28.62,neg,neg,3+,0,5,BRA,T3N1M0,negativo,negativo
+0.779,0.646,2.557,1.188,HER2,79.6,1.68,28.2,neg,neg,3+,0,5,BRA,T4bN1M0,negativo,negativo
+0.776,0.646,2.182,1.776,HER2,78.95,1.47,36.54,neg,neg,3+,0,6,PAR,T4bN1M0,negativo,negativo
+0.775,0.646,2.227,1.812,HER2,56.78,1.42,28.16,neg,neg,3+,0,1,PAR,T3N1M0,positivo,positivo
+0.778,0.646,2.35,1.727,HER2,66.09,1.57,26.81,neg,neg,3+,0,2,NEG,T3N1M0,negativo,negativo
+0.75,0.646,2.227,1.866,HER2,72.35,1.54,30.51,neg,neg,3+,0,2,PAR,T3N1M0,negativo,negativo
+0.74,0.665,2.231,1.816,HER2,69,1.46,32.37,neg,neg,3+,0,4,PAR,T3N1M0,positivo,positivo
+0.773,0.665,2.482,1.894,HER2,54.2,1.49,24.41,neg,neg,3+,0,5,PAR,T3N1M0,negativo,positivo
+0.719,0.661,2.485,1.896,HER2,70.45,1.51,30.9,neg,neg,3+,0,5,PAR,T3N1M0,positivo,positivo
+0.779,0.66,2.477,1.89,HER2,58.3,1.38,30.61,neg,neg,3+,0,6,PAR,T4bN1M0,negativo,negativo
+0.787,0.661,2.535,1.934,Luminal A ,56.8,1.47,26.29,pos,pos,1+,0,1,NEG,T3N1M0,positivo,negativo
+0.78,0.661,2.379,1.815,Luminal A ,64.37,1.42,31.92,pos,pos,1+,0,1,PAR,T3N1M0,negativo,negativo
+0.8,0.629,2.485,1.896,Luminal A ,56.38,1.42,27.96,pos,pos,1+,0,1,PAR,T3N1M0,negativo,negativo
+0.788,0.628,2.438,1.61,Luminal A ,46,1.54,19.4,pos,pos,1+,0,1,BRA,T3N1M0,negativo,negativo
+0.771,0.628,2.438,1.56,Luminal A ,63.5,1.48,28.99,pos,pos,1+,0,1,NEG,T3N1M0,negativo,negativo
+0.754,0.646,2.509,1.914,Luminal A ,78.99,1.64,29.37,pos,pos,1+,0,1,NEG,T3N1M0,positivo,positivo
+0.764,0.646,2.379,1.815,Luminal A ,75.06,1.65,27.57,pos,pos,1+,0,1,NEG,T3N1M0,negativo,negativo
+0.744,0.646,2.371,1.808,Luminal A ,69.32,1.61,26.74,pos,pos,1+,0,1,BRA,T3N1M0,negativo,negativo
+0.775,0.646,2.381,1.816,Luminal A ,66.98,1.63,25.21,pos,pos,1+,0,1,BRA,T3N1M0,negativo,negativo
+0.771,0.684,2.379,1.815,Luminal A ,76.36,1.64,28.39,pos,pos,1+,0,1,NEG,T3N1M0,negativo,positivo
+0.771,0.685,2.386,1.838,Luminal A ,73.44,1.65,26.98,pos,pos,1+,0,1,PAR,T3N1M0,negativo,negativo
+0.771,0.684,2.386,1.83,Luminal A ,78.73,1.58,31.54,pos,pos,1+,0,1,PAR,T3N1M0,negativo,negativo
+0.778,0.623,2.535,1.997,Luminal A ,81.69,1.77,26.07,pos,pos,0,0,1,PAR,T3N1M0,positivo,positivo
+0.777,0.705,2.553,1.934,Luminal A ,60.4,1.54,25.47,pos,pos,1+,0,1,PAR,T3N1M0,negativo,negativo
+0.777,0.703,2.485,1.896,Luminal A ,54.54,1.52,23.61,pos,pos,1+,0,1,PAR,T3N1M0,negativo,negativo
+0.979,0.705,2.54,1.937,Luminal A ,50.2,1.39,25.98,pos,pos,1+,0,1,BRA,T3N1M0,negativo,positivo
+0.976,0.701,2.535,1.934,Luminal A ,59.44,1.4,30.33,pos,pos,1+,0,1,BRA,T3N1M0,positivo,negativo
+0.976,0.7,2.533,1.937,Luminal A ,65.4,1.4,33.37,pos,pos,1+,0,1,PAR,T3N1M0,positivo,positivo
+0.976,0.701,2.538,1.936,Luminal B,57.88,1.52,25.05,pos,pos,1+,0,4,NEG,T3N1M0,negativo,negativo
+0.788,0.7,2.532,1.932,Luminal B,49.9,1.34,27.79,pos,pos,1+,0,7,PAR,T3N1M0,positivo,negativo
+0.93,0.665,2.53,1.997,Luminal B,73.92,1.46,34.68,pos,pos,1+,0,3,PAR,T4bN1M0,negativo,negativo
+0.978,0.665,2.511,1.93,Luminal B,76.37,1.57,30.98,pos,pos,2+,0,3,NEG,T3N1M0,negativo,negativo
+0.979,0.665,2.011,1.743,Luminal B,58.48,1.56,24.03,pos,pos,1+,0,4,PAR,T3N1M0,negativo,negativo
+0.979,0.665,2.484,1.895,Luminal B,48.49,1.61,18.71,pos,pos,1+,0,3,BRA,T4bN1M0,negativo,negativo
+0.979,0.665,2.385,1.819,Luminal B,57.88,1.6,22.61,pos,pos,2+,0,3,BRA,T3N1M0,positivo,negativo
+0.979,0.665,2.53,1.93,Luminal B,53.29,1.5,23.68,pos,pos,1+,0,5,BRA,T3N1M0,negativo,negativo
+0.975,0.665,2.301,1.743,Luminal B,75.84,1.56,31.16,pos,pos,1+,0,15,PAR,T3N1M0,negativo,negativo
+0.975,0.665,2.511,1.927,Luminal B,83.2,1.55,34.63,pos,pos,1+,0,5,PAR,T4bN1M0,negativo,negativo
+0.975,0.665,2.531,1.927,Luminal B,69.56,1.56,28.58,pos,pos,1+,0,3,PAR,T4bN1M0,negativo,negativo
+0.975,0.663,2.513,1.923,Luminal B,82.55,1.67,29.6,pos,pos,2+,0,3,NEG,T3N1M0,positivo,positivo
+0.98,0.664,2.484,1.895,Luminal B,83.47,1.63,31.42,pos,pos,2+,0,3,PAR,T3N1M0,positivo,positivo
+0.98,0.668,2.53,1.93,Luminal B,67.34,1.58,26.97,pos,pos,2+,0,3,NEG,T3N1M0,negativo,negativo
+0.98,0.662,2.512,1.974,Luminal B,68.3,1.59,27.02,pos,pos,1+,0,2,BRA,T3N1M0,negativo,negativo
+0.971,0.665,2.121,1.974,Luminal B,77.67,1.66,28.19,pos,pos,1+,0,2,PAR,T3N1M0,positivo,positivo
+0.971,0.664,2.484,1.895,Luminal B,87.19,1.69,30.53,pos,pos,1+,0,3,PAR,T4bN1M0,negativo,positivo
+0.978,0.664,2.53,1.93,Luminal B,80.48,1.71,27.52,pos,pos,1+,0,3,PAR,T4bN1M0,positivo,positivo
+0.978,0.664,2.484,1.895,Luminal B,44.44,1.45,21.14,pos,pos,1+,0,8,PAR,T4bN1M0,negativo,negativo
+0.978,0.664,2.53,1.927,Luminal B,56.63,1.38,29.74,pos,pos,1+,0,4,PAR,T3N1M0,negativo,negativo
+0.978,0.664,2.472,1.886,Luminal B,59.33,1.43,29.01,pos,pos,1+,0,4,NEG,T3N1M0,negativo,positivo
+0.978,0.665,2.388,1.821,Luminal B,80.03,1.72,27.05,pos,pos,1+,0,5,PAR,T4bN1M0,negativo,positivo
+0.978,0.664,2.41,1.838,Luminal B,57.35,1.46,26.9,pos,pos,1+,0,7,BRA,T3N1M0,negativo,negativo
+0.979,0.564,2.581,1.827,Luminal B,69.43,1.4,35.42,pos,neg,0,0,8,PAR,T3N2M0,negativo,negativo
+0.975,0.564,2.577,1.837,Luminal B,76.3,1.44,36.8,pos,pos,1+,0,6,PAR,T3N1M0,negativo,negativo
+0.975,0.564,2.569,1.838,Luminal B,70.3,1.45,33.44,pos,pos,1+,0,7,PAR,T3N2M0,positivo,positivo
+1.016,0.564,2.885,1.821,Luminal B,77.4,1.58,31,pos,pos,0,0,8,PAR,T4bN1M0,negativo,positivo
+1.015,0.56,2.41,1.827,Luminal B,79.21,1.72,26.77,pos,pos,1+,0,8,PAR,T3N2M0,negativo,negativo
+1.016,0.561,2.533,1.932,Luminal B,64.2,1.48,29.31,pos,pos,2+,0,2,BRA,T3N1M0,positivo,positivo
+1.016,0.561,2.496,1.904,Luminal B,73.92,1.4,37.71,pos,pos,0,0,3,PAR,T3N1M0,positivo,positivo
+0.967,0.56,2.425,1.591,Luminal B,68.8,1.44,33.18,pos,pos,2+,0,3,PAR,T3N1M0,negativo,negativo
+0.966,0.562,2.519,1.921,Luminal B,66.4,1.64,24.69,pos,pos,2+,0,3,BRA,T3N1M0,negativo,negativo
+0.966,0.56,2.496,1.904,Luminal B,68.5,1.49,30.85,pos,pos,1+,0,3,BRA,T4bN1M0,negativo,positivo
+0.993,0.503,2.532,1.931,Luminal B,69.49,1.64,25.84,pos,pos,1+,0,4,BRA,T3N1M0,positivo,positivo
+0.993,0.503,2.496,1.91,Luminal B,74,1.65,27.18,pos,pos,1+,0,5,NEG,T3N1M0,negativo,negativo
+0.994,0.527,2.387,1.82,Luminal B,79.04,1.71,27.03,pos,pos,1+,0,7,NEG,T3N1M0,positivo,positivo
+0.994,0.527,2.452,1.904,Luminal B,60.3,1.36,32.6,pos,pos,1+,0,2,PAR,T3N1M0,negativo,positivo
+1.052,0.526,2.451,1.87,Luminal B,60.4,1.45,28.73,pos,pos,2+,0,3,BRA,T3N1M0,negativo,negativo
+1.053,0.526,2.44,1.862,Luminal B,73.85,1.52,31.96,pos,pos,2+,0,3,BRA,T3N1M0,negativo,negativo
+1.051,0.626,2.529,1.975,Luminal B HER2,52.39,1.47,24.24,pos,pos,3+,0,6,PAR,T3N1M0,negativo,negativo
+0.958,0.683,2.403,1.929,Luminal B HER2,75.84,1.47,35.1,pos,pos,3+,0,1,PAR,T3N1M0,negativo,negativo
+0.98,0.683,2.492,1.901,Luminal B HER2,71.04,1.37,37.85,pos,pos,3+,0,5,BRA,T4bN1M0,negativo,negativo
+0.979,0.683,2.465,1.88,Luminal B HER2,72,1.45,34.24,pos,pos,3+,0,2,PAR,T4cN2M0,negativo,negativo
+0.98,0.603,2.496,1.886,Luminal B HER2,70.04,1.4,35.73,pos,pos,3+,0,2,PAR,T4cN2M0,negativo,negativo
+0.979,0.665,2.492,1.925,Luminal B HER2,68.8,1.47,31.84,pos,pos,3+,0,6,NEG,T3N1M0,negativo,negativo
+0.979,0.666,2.529,1.929,Luminal B HER2,66.4,1.5,29.51,pos,pos,3+,0,1,PAR,T3N1M0,negativo,negativo
+0.979,0.665,2.492,1.901,Luminal B HER2,71.39,1.54,30.1,pos,pos,3+,0,5,BRA,T4bN1M0,positivo,positivo
+0.979,0.665,2.438,1.86,Luminal B HER2,65.49,1.42,32.48,pos,pos,3+,0,2,BRA,T4cN2M0,negativo,negativo
+0.978,0.665,2.492,1.901,Luminal B HER2,50.55,1.5,22.47,pos,pos,3+,0,15,BRA,T3N1M0,negativo,negativo
+0.978,0.666,2.53,1.93,Luminal B HER2,61.39,1.67,22.01,pos,pos,3+,0,6,PAR,T3N1M0,negativo,negativo
+0.98,0.666,2.529,1.927,Luminal B HER2,67.48,1.57,27.38,pos,pos,3+,0,5,PAR,T4bN1M0,negativo,negativo
+0.979,0.669,2.169,1.654,Luminal B HER2,71.55,1.54,30.17,pos,pos,3+,0,6,BRA,T3N1M0,negativo,negativo
+0.978,0.665,2.047,1.561,Luminal B HER2,72.43,1.5,32.19,pos,pos,3+,0,1,BRA,T3N1M0,negativo,negativo
+0.979,0.665,2.145,1.636,Luminal B HER2,75.83,1.56,31.16,pos,pos,3+,0,3,BRA,T4bN1M0,positivo,positivo
+0.988,0.665,2.028,1.547,Luminal B HER2,98.2,1.76,31.7,pos,pos,3+,0,2,PAR,T3N1M0,negativo,negativo
+0.978,0.668,2.168,1.654,Luminal B HER2,89.3,1.71,30.54,pos,pos,3+,0,2,NEG,T4cN2M0,negativo,negativo
+0.981,0.662,2.081,1.587,Luminal B HER2,82.2,1.64,30.56,pos,pos,3+,0,2,BRA,T4cN2M0,positivo,positivo
+0.943,0.666,2.028,1.547,Luminal B HER2,68.2,1.61,26.31,pos,pos,3+,0,4,NEG,T4bN1M0,positivo,positivo
+0.97,0.667,2.377,1.813,Luminal B HER2,89.7,1.78,28.31,pos,pos,3+,0,5,NEG,T3N1M0,negativo,negativo
+0.977,0.667,2.578,1.966,Luminal B HER2,74.6,1.68,26.43,pos,pos,3+,0,5,PAR,T4bN1M0,positivo,positivo
+0.976,0.667,2.54,1.938,Luminal B HER2,55.04,1.37,29.32,pos,pos,3+,0,5,NEG,T4bN1M0,negativo,negativo
+0.971,0.667,2.218,1.692,Luminal B HER2,54.07,1.39,27.99,pos,pos,3+,0,5,PAR,T4bN1M0,negativo,negativo
+0.98,0.688,2.024,1.544,Luminal B HER2,58.23,1.42,28.88,pos,pos,3+,0,6,PAR,T3N1M0,positivo,positivo
+0.98,0.688,2.008,1.532,Luminal B HER2,76.14,1.49,34.3,pos,pos,3+,0,15,PAR,T3N1M0,negativo,negativo
+0.98,0.688,1.861,1.42,Luminal B HER2,62.33,1.52,26.98,pos,pos,3+,0,6,PAR,T3N1M0,positivo,positivo
+0.98,0.688,1.973,1.505,Luminal B HER2,77.86,1.61,30.04,pos,pos,3+,0,15,NEG,T3N1M0,positivo,negativo
+0.98,0.717,2.255,1.72,Luminal B HER2,97.54,1.74,32.22,pos,pos,3+,0,2,PAR,T3N1M0,negativo,negativo
+0.801,0.717,2.015,1.537,Luminal B HER2,81.3,1.69,28.47,pos,pos,3+,0,5,PAR,T4bN1M0,negativo,negativo
+0.98,0.717,1.892,1.443,Luminal B HER2,82.8,1.69,28.99,pos,pos,3+,0,5,BRA,T4bN1M0,negativo,negativo
+0.792,0.67,2.037,1.554,Luminal B HER2,79.44,1.72,26.85,pos,pos,3+,0,2,BRA,T3N1M0,positivo,positivo
+0.793,0.67,2.111,1.61,Luminal B HER2,81.67,1.69,28.59,pos,pos,3+,0,15,BRA,T4cN2M0,positivo,positivo
+0.795,0.67,1.901,1.45,Luminal B HER2,68.92,1.5,30.63,pos,pos,3+,0,2,PAR,T4cN2M0,negativo,negativo
+0.795,0.67,1.973,1.505,Luminal B HER2,89.82,1.67,32.21,pos,pos,3+,0,2,BRA,T4cN2M0,positivo,positivo
+0.904,0.669,1.886,1.439,Luminal B HER2,92.04,1.66,33.4,pos,pos,3+,0,5,BRA,T4bN1M0,positivo,positivo
+0.919,0.665,2.119,1.616,Luminal B HER2,81.2,1.74,26.82,pos,pos,3+,0,5,BRA,T4bN1M0,negativo,positivo
+0.912,0.665,2.489,1.898,Luminal B HER2,63.41,1.51,27.81,pos,pos,3+,0,3,NEG,T4bN1M0,positivo,positivo
+0.905,0.665,2.621,1.999,Luminal B HER2,64.37,1.37,34.3,pos,pos,3+,0,6,PAR,T3N1M0,negativo,negativo
+0.924,0.665,2.097,1.599,Luminal B HER2,57.88,1.34,32.23,pos,pos,3+,0,6,PAR,T3N1M0,negativo,negativo
+0.903,0.666,2.219,1.693,Luminal B HER2,71.04,1.39,36.77,neg,neg,3+,0,6,PAR,T3N1M0,positivo,positivo
+0.904,0.666,2.039,1.555,Luminal B HER2,55.89,1.48,25.52,pos,pos,3+,0,3,NEG,T4bN1M0,negativo,positivo
+0.905,0.668,2.165,1.652,Luminal B HER2,66.27,1.53,28.31,pos,pos,3+,0,5,BRA,T4bN1M0,negativo,negativo
+0.941,0.668,2.791,2.129,Luminal B HER2,78.87,1.67,28.28,pos,pos,3+,0,1,PAR,T3N1M0,negativo,negativo
+0.941,0.668,1.978,1.509,Luminal B HER2,66.03,1.6,25.79,pos,pos,3+,0,3,PAR,T3N1M0,positivo,positivo
+0.938,0.668,1.906,1.454,Luminal B HER2,51.5,1.41,25.9,pos,pos,3+,0,5,PAR,T3N1M0,negativo,positivo
+0.939,0.665,2.261,1.725,Triplo Negativo,59.52,1.5,26.45,neg,neg,1+,0,8,BRA,T3N2M0,negativo,negativo
+0.939,0.665,2.299,1.754,Triplo Negativo,57.6,1.45,27.4,neg,neg,1+,0,8,PAR,T4bN1M0,negativo,negativo
+1.024,0.665,2.293,1.749,Triplo Negativo,43.2,1.44,20.83,neg,neg,1+,0,9,NEG,T4bN1M0,negativo,negativo
+1.024,0.665,1.98,1.51,Triplo Negativo,69.48,1.47,32.15,neg,neg,1+,0,8,PAR,T3N2M0,negativo,negativo
+1.025,0.665,2.258,1.723,Triplo Negativo,52.45,1.63,19.74,neg,neg,1+,0,8,PAR,T4bN1M0,negativo,negativo
+0.904,0.665,2.02,1.541,Triplo Negativo,60.44,1.51,26.51,neg,neg,1+,0,6,NEG,T3N1M0,negativo,negativo
+0.974,0.665,2.053,1.566,Triplo Negativo,68.44,1.55,28.49,neg,neg,1+,0,2,BRA,T3N1M0,positivo,negativo
+0.975,0.668,2.159,1.647,Triplo Negativo,66.2,1.57,26.86,neg,neg,1+,0,8,PAR,T3N2M0,negativo,negativo
+0.974,0.668,2.392,1.825,Triplo Negativo,92.48,1.77,29.52,neg,neg,1+,0,8,PAR,T4bN1M0,negativo,negativo
+0.974,0.668,1.943,1.482,Triplo Negativo,67.5,1.55,28.1,neg,neg,3+,0,5,PAR,T4bN1M0,negativo,negativo
+0.974,0.663,2.225,1.697,Triplo Negativo,76.2,1.5,33.87,neg,neg,1+,0,3,NEG,T4bN1M0,negativo,negativo
+0.975,0.67,2.015,1.537,Triplo Negativo,64.38,1.66,23.36,neg,neg,1+,0,1,NEG,T3N1M0,positivo,positivo
+0.977,0.67,2.186,1.667,Triplo Negativo,54.56,1.45,25.95,neg,neg,1+,0,3,PAR,T3N1M0,negativo,negativo
+0.936,0.67,2.224,1.696,Triplo Negativo,88.46,1.67,31.72,neg,neg,1+,0,8,PAR,T3N2M0,negativo,negativo
+0.972,0.669,2.012,1.535,Triplo Negativo,72.33,1.55,30.11,neg,neg,1+,0,1,NEG,T3N1M0,negativo,negativo
+0.976,0.669,2.051,1.564,Triplo Negativo,84.48,1.66,30.66,neg,neg,1+,0,8,PAR,T3N2M0,negativo,negativo
+0.972,0.669,1.907,1.455,Triplo Negativo,85.09,1.67,30.51,neg,neg,1+,0,7,BRA,T4bN1M0,negativo,negativo
+0.974,0.669,1.943,1.482,Triplo Negativo,50.34,1.36,27.22,neg,neg,1+,0,1,PAR,T4bN1M0,negativo,positivo
+0.972,0.67,2.073,1.581,Triplo Negativo,83.5,1.61,32.21,neg,neg,3+,0,2,BRA,T4cN2M0,positivo,positivo
+0.978,0.669,2.303,1.756,Triplo Negativo,76.47,1.6,29.87,neg,neg,2+,0,4,PAR,T3N1M0,negativo,negativo
+0.935,0.979,2.22,1.694,Triplo Negativo,77.84,1.62,29.66,neg,neg,1+,0,1,PAR,T3N1M0,negativo,negativo
+0.986,0.976,2.359,1.799,Triplo Negativo,69.65,1.62,26.54,neg,neg,1+,0,1,NEG,T3N1M0,negativo,positivo
+0.935,0.976,2.115,1.613,Triplo Negativo,72.13,1.59,28.53,neg,neg,1+,0,2,NEG,T3N1M0,negativo,positivo
+0.927,0.976,2.254,1.719,Triplo Negativo,84.42,1.68,29.91,neg,neg,0,0,2,PAR,T3N1M0,negativo,positivo
+0.998,0.788,1.91,1.457,Triplo Negativo,79.47,1.59,31.43,neg,neg,1+,0,3,PAR,T4bN1M0,negativo,positivo
+0.91,0.93,2.07,1.579,Triplo Negativo,70.36,1.55,29.29,neg,neg,1+,0,3,PAR,T3N1M0,positivo,positivo
+0.972,0.978,2.026,1.546,Triplo Negativo,88.04,1.7,30.46,neg,neg,0,0,5,PAR,T3N1M0,negativo,positivo
+0.945,0.979,1.915,1.461,Triplo Negativo,55.99,1.39,28.98,neg,neg,1+,0,6,PAR,T3N1M0,positivo,positivo
+0.927,0.979,2.025,1.544,Triplo Negativo,95.84,1.73,32.02,neg,neg,1+,0,6,BRA,T3N1M0,negativo,negativo
+0.998,0.979,2.294,1.75,Triplo Negativo,82.33,1.43,40.26,pos,neg,1+,0,7,PAR,T4bN1M0,positivo,positivo
+0.921,0.979,2.102,1.603,Triplo Negativo,91.33,1.7,31.6,neg,neg,0,0,7,PAR,T3N2M0,negativo,negativo
+0.998,0.975,2.37,1.808,Triplo Negativo,81.22,1.34,45.23,neg,neg,1+,0,7,PAR,T4bN1M0,positivo,positivo
+0.918,0.975,2.12,1.617,Triplo Negativo,52.34,1.35,28.72,neg,neg,1+,0,8,NEG,T3N2M0,negativo,negativo
+0.945,0.975,2.149,1.639,Triplo Negativo,89.03,1.73,29.75,neg,neg,1+,0,8,PAR,T4bN1M0,negativo,negativo
+0.945,0.975,2.36,1.8,Triplo Negativo,100.03,1.75,32.66,neg,neg,1+,0,8,PAR,T4bN1M0,negativo,negativo
+0.98,0.98,2.156,1.645,Triplo Negativo,60.14,1.48,27.46,neg,neg,1+,0,8,BRA,T3N2M0,negativo,positivo
+0.982,0.98,2.081,1.587,Triplo Negativo,66.93,1.55,27.86,neg,neg,0,0,9,BRA,T3N2M0,negativo,negativo
+0.9,0.98,1.999,1.525,Triplo Negativo,62.7,1.53,26.78,neg,neg,1+,0,2,NEG,T3N1M0,negativo,negativo
+0.962,0.971,2.051,1.564,Triplo Negativo,76.3,1.59,30.18,pos,neg,1+,0,2,NEG,T3N1M0,negativo,positivo
+0.988,0.971,1.97,1.502,Triplo Negativo,79.66,1.69,27.89,neg,neg,0,0,3,PAR,T4bN1M0,negativo,negativo
+0.965,0.978,2.177,1.661,Triplo Negativo,80.01,1.6,31.25,neg,neg,1+,0,3,PAR,T3N1M0,negativo,negativo
+0.964,0.978,1.997,1.523,Triplo Negativo,62.33,1.49,28.08,neg,neg,1+,0,6,PAR,T3N1M0,negativo,negativo
+0.963,0.978,2.215,1.69,Triplo Negativo,71.2,1.46,33.4,neg,neg,1+,0,7,PAR,T4bN1M0,negativo,negativo
+0.98,0.978,2.088,1.593,Triplo Negativo,82.7,1.69,28.96,neg,neg,1+,0,7,PAR,T4bN1M0,negativo,negativo
+0.923,0.978,2.196,1.675,Triplo Negativo,79.9,1.68,28.31,neg,neg,1+,0,8,BRA,T3N2M0,positivo,positivo
+0.974,0.978,2.117,1.615,Triplo Negativo,67.44,1.53,28.81,neg,neg,1+,0,8,PAR,T3N2M0,positivo,positivo
+0.976,0.978,2.087,1.592,Triplo Negativo,59.23,1.4,30.22,neg,neg,1+,0,8,BRA,T4bN1M0,positivo,positivo
+0.975,0.975,2.113,1.612,Triplo Negativo,66.02,1.39,34.17,neg,neg,1+,0,9,BRA,T3N2M0,negativo,negativo
+0.975,0.975,1.89,1.442,Triplo Negativo,79.21,1.72,26.77,neg,neg,2+,0,4,BRA,T4bN1M0,negativo,negativo
+0.988,1.016,2.155,1.644,Triplo Negativo,80.83,1.36,43.7,neg,neg,0,0,6,PAR,T3N1M0,positivo,positivo
+0.977,1.015,2.147,1.638,Triplo Negativo,63.2,1.41,31.79,neg,neg,2+,0,3,PAR,T3N1M0,positivo,positivo
+0.979,1.016,2.039,1.555,Triplo Negativo,49.34,1.36,26.68,neg,neg,1+,0,1,PAR,T3N1M0,positivo,negativo
+0.9,1.016,1.995,1.522,Triplo Negativo,53.4,1.38,28.04,neg,neg,1+,0,2,PAR,T3N1M0,negativo,positivo
+0.979,0.967,1.902,1.451,Triplo Negativo,48.9,1.37,26.05,neg,neg,1+,0,1,PAR,T3N1M0,positivo,positivo
+0.978,0.966,1.995,1.522,Triplo Negativo,61.22,1.44,29.52,neg,neg,1+,0,2,BRA,T3N1M0,negativo,negativo
+0.939,0.966,1.845,1.407,Triplo Negativo,67.89,1.46,31.85,neg,neg,1+,0,3,BRA,T4bN1M0,negativo,positivo
+0.935,0.993,2.377,1.813,Triplo Negativo,62.4,1.48,28.49,neg,neg,2+,0,9,BRA,T4bN1M0,positivo,negativo
+0.974,0.993,1.865,1.422,Triplo Negativo,68.8,1.51,30.17,neg,neg,1+,0,4,BRA,T3N1M0,negativo,negativo
+0.914,0.994,2.359,1.799,Triplo Negativo,82.45,1.58,33.03,neg,neg,1+,0,5,PAR,T4bN1M0,negativo,negativo
+0.91,0.994,2.123,1.619,Triplo Negativo,60.02,1.44,28.94,neg,neg,1+,0,5,PAR,T4bN1M0,negativo,positivo
+0.953,1.052,2.07,1.579,Triplo Negativo,66.48,1.37,35.42,neg,neg,1+,0,2,BRA,T3N1M0,positivo,positivo
+0.978,1.053,1.835,1.399,Triplo Negativo,79.55,1.7,27.53,neg,neg,1+,0,3,BRA,T4bN1M0,negativo,negativo
+0.974,1.051,2.022,1.542,Triplo Negativo,45.99,1.35,25.23,neg,neg,1+,0,3,PAR,T3N1M0,negativo,positivo
